@@ -8,6 +8,7 @@ namespace StringCalculator2
 {
     public class Calculator
     {
+        return 0;
         public static int SumString(string s)
         {
             if (string.IsNullOrWhiteSpace(s))
