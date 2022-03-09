@@ -10,7 +10,7 @@ namespace StringCalculator2
     {
         public static int SumString(string s)
         {
-            return 0
+            return 0;
             if (string.IsNullOrWhiteSpace(s))
                 return 0;
 
