@@ -1,1 +1,1 @@
-# babinskim
+# StringCalculatorKata

@@ -1,0 +1,16 @@
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\bin\Debug\net5.0\StringCalculator2.exe
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\bin\Debug\net5.0\StringCalculator2.deps.json
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\bin\Debug\net5.0\StringCalculator2.runtimeconfig.json
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\bin\Debug\net5.0\StringCalculator2.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\bin\Debug\net5.0\StringCalculator2.dll
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\bin\Debug\net5.0\ref\StringCalculator2.dll
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\bin\Debug\net5.0\StringCalculator2.pdb
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\obj\Debug\net5.0\StringCalculator2.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\obj\Debug\net5.0\StringCalculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\obj\Debug\net5.0\StringCalculator2.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\obj\Debug\net5.0\StringCalculator2.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\obj\Debug\net5.0\StringCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\obj\Debug\net5.0\StringCalculator2.dll
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\obj\Debug\net5.0\ref\StringCalculator2.dll
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\obj\Debug\net5.0\StringCalculator2.pdb
+C:\Users\Admin\Source\Repos\StringCalculatorKata\StringCalculator2\obj\Debug\net5.0\StringCalculator2.genruntimeconfig.cache
